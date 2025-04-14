@@ -1,6 +1,6 @@
 This is Hank Hsu's blog. 
 
-![](/images/logo.png)
+![](/images/phtoo.png)
 (yeah, it's me)
 
 ## This supposed to be a title
