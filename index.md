@@ -2,6 +2,7 @@ This is Hank Hsu's blog.
 
 ![](/images/photo.png "hank")
 (yeah, it's me)
+![](/images/logo.png "fast.ai's logo")
 
 ## This supposed to be a title
 
