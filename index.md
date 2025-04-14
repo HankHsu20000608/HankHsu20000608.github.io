@@ -1,6 +1,9 @@
-This is Hank Hsu's blog. 
+This is Hank Hsu's blog.  
+this is his first blog[^1]
+<img src="./images/photo.jpg" alt="hank" width="150">
 
-![](/images/photo.jpg'  width="100" height="100")
+![](/images/photo.jpg)
+
 (yeah, it's me)
 
 
@@ -8,8 +11,8 @@ This is Hank Hsu's blog.
 
 [here's what I'm learning](https://sp25.datastructur.es/). Idk whatelse can I put here lol
 
-1.ohhh this is so cool i'm creating my github page
-1.building a list here
+1. ohhh this is so cool i'm creating my github page  
+1. building a list here
 1. **bold sentence** 
 1. *italics sentence* 
 
@@ -18,7 +21,7 @@ This is Hank Hsu's blog.
 for i in range(2)
   print("hello world")
 ```
-[^1]: welcome to my blog
+[^1]: you jump here!  
 
 ## a table here
 
