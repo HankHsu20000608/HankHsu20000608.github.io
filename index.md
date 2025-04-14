@@ -1,8 +1,10 @@
 This is Hank Hsu's blog. 
 
-![Image of fast.ai logo](images/logo.png)
-(so I need to upload the image in the same file?)
-## This is a titlelelelle
+![Image of fast.ai logo](images/photo.png)
+(yeah, it's me)
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
-ohhh this is so cool i'm creating my github page!
+## This supposed to be a title
+
+[here's what I'm learning](https://sp25.datastructur.es/). Idk whatelse can I put here lol
+
+ohhh this is so cool i'm creating my github page
