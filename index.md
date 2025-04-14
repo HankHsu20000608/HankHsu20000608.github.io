@@ -1,6 +1,6 @@
 This is Hank Hsu's blog. 
 
-![photograph](images/photo.png)
+![](images/photo.png)
 (yeah, it's me)
 
 ## This supposed to be a title
