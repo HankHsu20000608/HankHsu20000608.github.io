@@ -1,6 +1,6 @@
 This is Hank Hsu's blog. 
 
-![Image of fast.ai logo](images/photo.png)
+![photograph](images/photo.png)
 (yeah, it's me)
 
 ## This supposed to be a title
