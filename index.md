@@ -1,6 +1,6 @@
 This is Hank Hsu's blog. 
 
-![](/images/photo.jpg "hank")
+![](/images/photo.jpg'  width="100" height="100")
 (yeah, it's me)
 
 
