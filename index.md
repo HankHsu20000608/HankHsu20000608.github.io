@@ -1,10 +1,13 @@
 This is Hank Hsu's blog.  
-this is his first blog[^1]
+this is his first blog[^1]  
+
 <img src="./images/photo.jpg" alt="hank" width="150">
+(yeah, it's me)    
+(bigger!)
 
 ![](/images/photo.jpg)
+(it's so hilarious)
 
-(yeah, it's me)
 
 
 ## This supposed to be a title
