@@ -20,6 +20,6 @@ for i in range(2)
 [^1]: welcome to my blog
 
 ##tables
-|col1|col2|
+|it's|english|
 |-|-|
 |這是|中文|
